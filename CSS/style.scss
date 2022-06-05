@@ -5,7 +5,7 @@
 
 // Table of contents //
 
-	01. FONTS FAMILY
+ 01. FONTS FAMILY
  02. BODY & HTML ELEMENTS
  03. CUSTOM CLASSES & AUDIO
  04. SECTIONS
@@ -93,23 +93,6 @@
     font-style:normal;
 }
 
-
-$color-green:#33a16e;
-
-
-@mixin transition{-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-ms-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out;}
-@mixin cubic-transition{-webkit-transition: all 400ms cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-   -moz-transition: all 400ms cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-     -o-transition: all 400ms cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-        transition: all 400ms cubic-bezier(0.595, 0.030, 0.000, 0.880); /* custom */
-
--webkit-transition-timing-function: cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-   -moz-transition-timing-function: cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-     -o-transition-timing-function: cubic-bezier(0.595, 0.030, 0.000, 0.880); 
-        transition-timing-function: cubic-bezier(0.595, 0.030, 0.000, 0.880); /* custom */}
-
-
-@mixin second-font{font-family: 'Fjalla One', sans-serif;}
 
 /* BODY & HTML ELEMENTS */
 
