@@ -38,8 +38,8 @@
 
 @font-face{
     font-family:'Script';
-    src:url('https://cuthesthetic.github.io/blob/main/Fonts/Script.ttf');
-    src:url('https://cuthesthetic.github.io/blob/main/Fonts/Script.otf');
+    src:url('https://cuthesthetic.github.io/main/Fonts/Script.ttf');
+    src:url('https://cuthesthetic.github.io/main/Fonts/Script.otf');
     font-weight:normal;
     font-style:normal;
 }
@@ -88,7 +88,7 @@
 
 @font-face{
     font-family:'Thin';
-    src:url('https://cuthesthetic.github.io/blob/main/Fonts/Thin.otf');
+    src:url('https://cuthesthetic.github.io/main/Fonts/Thin.otf');
     font-weight:normal;
     font-style:normal;
 }
