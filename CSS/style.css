@@ -34,65 +34,6 @@
 
 */
 
-/* FONT FAMILY */
-
-@font-face{
-    font-family:'Script';
-    src:url('https://cuthesthetic.github.io/main/Fonts/Script.ttf');
-    src:url('https://cuthesthetic.github.io/main/Fonts/Script.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Black';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/main/Fonts/Black.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Bold';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/4c87baca78baa34eb4410d1f2767c347974ed114/Fonts/Bold.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Book';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/4c87baca78baa34eb4410d1f2767c347974ed114/Fonts/Book.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Heavy';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/4c87baca78baa34eb4410d1f2767c347974ed114/Fonts/Heavy.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Light';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/4c87baca78baa34eb4410d1f2767c347974ed114/Fonts/Light.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Regular';
-    src:url('https://github.com/Cuthesthetic/cuthesthetic.github.io/blob/4c87baca78baa34eb4410d1f2767c347974ed114/Fonts/Regular.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
-@font-face{
-    font-family:'Thin';
-    src:url('https://cuthesthetic.github.io/main/Fonts/Thin.otf');
-    font-weight:normal;
-    font-style:normal;
-}
-
 
 /* BODY & HTML ELEMENTS */
 
